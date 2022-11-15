@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #e3f2fd;
+    /* background-color: deepskyblue;*/
+}
+
+.ButtonUpload {
+    position: absolute;
+    font-size: 28px;
+    left: 37%;
+    border-color: #e3f2fd;
+    /*border: 5px  white;*/
+    font-family: #e3f2fd;
+    background-color: #e3f2fd;
+}
+
+.sizeProgress {
+    /*width: 30%;*/
+    margin-left: 35%;
+    /*margin-right:50%;  */
+    height: 7vh;
+}
+
+.login {
+    background-color: #e3f2fd;
+}
+
+.h1{
+   color:white;
+}
+
+.img{
+    width:10%;
+    height:10%;
+}
+
+.btn_insert {
+    width: 20%;
+    height: 40%;
+    left: 150%;
+    background-color: white;
+    color: black;
+}
